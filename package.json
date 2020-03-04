@@ -1,0 +1,10 @@
+{
+  "name": "dxux",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "shower-core": "^2.1.0",
+    "shower-ribbon": "^3.1.4"
+  }
+}
